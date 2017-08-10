@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,7 +61,7 @@
        id="path4485" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.66806793px;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.5202322;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.66806793px;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.52;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="838.2298"
        y="942.22314"
        id="text4136"
@@ -70,15 +70,15 @@
          id="tspan4138"
          x="838.2298"
          y="942.22314"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.5202322;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Briones District</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.52;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Briones District</tspan><tspan
          sodipodi:role="line"
          x="838.2298"
          y="1011.9911"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.5202322;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:91.00000262%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;text-anchor:middle;fill:#004800;fill-opacity:1;stroke:#000000;stroke-width:3.52;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan4146">Troop Challenge</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.45463562px;line-height:125%;font-family:'Airstrike Bold';-inkscape-font-specification:'Airstrike Bold, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.45463562px;line-height:125%;font-family:'Airstrike Bold';-inkscape-font-specification:'Airstrike Bold, ';letter-spacing:0px;word-spacing:0px;fill:#860000;fill-opacity:1;stroke:#000000;stroke-width:3.51999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="-215.87289"
        y="767.12402"
        id="text4148"
@@ -88,6 +88,6 @@
          id="tspan4150"
          x="-215.87289"
          y="767.12402"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Airstrike;-inkscape-font-specification:Airstrike">BTC2018 </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Airstrike;-inkscape-font-specification:Airstrike;fill:#860000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:3.51999998;stroke-miterlimit:4;stroke-dasharray:none">BTC2018 </tspan></text>
   </g>
 </svg>
