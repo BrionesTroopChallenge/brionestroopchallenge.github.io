@@ -1,0 +1,27 @@
+body {
+  font-family: "Lato", sans-serif;  
+  font-weight: 300;
+}
+
+.button-default {
+  color: white;
+  background-color: teal;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.button-slanted {
+  -ms-transform: skewX(-20deg);
+  -webkit-transform: skewX(-20deg);
+  transform: skewX(-20deg);
+}
+
+.button-slanted-content {
+  -ms-transform: skewX(20deg);
+  -webkit-transform: skewX(20deg);
+  transform: skewX(20deg);  
+  display: inline-block;
+}
