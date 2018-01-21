@@ -5,12 +5,13 @@ body {
 
 .button-default {
   color: white;
-  background-color: teal;
+  background-color: #347736;
   text-align: center;
-  text-transform: uppercase;
-  padding: 5px 10px;
-  margin: 10px;
+  /*text-transform: uppercase;*/
+  padding: 15px 20px;
+  margin: 15px;
   display: inline-block;
+  font-size:40px;
 }
 
 .button-slanted {
